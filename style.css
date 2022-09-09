@@ -1,0 +1,32 @@
+.heading {
+    background-image: url();
+    font-weight: bold;
+    color: rgb(2, 0, 0);
+    height: ;
+    padding-top: 600px;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sub-heading {
+    text-align: left;
+    font-size: 15px;
+    padding: ;
+}
+
+.boxes {
+    border: solid #000;
+    padding: 40px 40px;
+    margin: 40px;
+}
+
+.page {
+    background-color: bisque;
+}
+
+.col-9 {
+    padding-top: 200px;
+}
+
+.
